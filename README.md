@@ -1,6 +1,6 @@
 # Comonadic React
 
-An exploration of (Arthur Xavier's)[https://github.com/arthurxavierx] (Comonads for UIs)[https://arthurxavierx.github.io/ComonadsForUIs.pdf] using fp-ts and React.
+An exploration of [Arthur Xavier's](https://github.com/arthurxavierx) [Comonads for UIs](https://arthurxavierx.github.io/ComonadsForUIs.pdf) using fp-ts and React.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
